@@ -1,0 +1,11 @@
+C:\Users\Mike\Desktop\folio\bin\Debug\netcoreapp2.0\folio.deps.json
+C:\Users\Mike\Desktop\folio\bin\Debug\netcoreapp2.0\folio.runtimeconfig.json
+C:\Users\Mike\Desktop\folio\bin\Debug\netcoreapp2.0\folio.runtimeconfig.dev.json
+C:\Users\Mike\Desktop\folio\bin\Debug\netcoreapp2.0\folio.dll
+C:\Users\Mike\Desktop\folio\bin\Debug\netcoreapp2.0\folio.pdb
+C:\Users\Mike\Desktop\folio\obj\Debug\netcoreapp2.0\folio.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\folio\obj\Debug\netcoreapp2.0\folio.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\folio\obj\Debug\netcoreapp2.0\folio.AssemblyInfo.cs
+C:\Users\Mike\Desktop\folio\obj\Debug\netcoreapp2.0\folio.dll
+C:\Users\Mike\Desktop\folio\obj\Debug\netcoreapp2.0\folio.pdb
+C:\Users\Mike\Desktop\Folio\obj\Debug\netcoreapp2.0\folio.csprojResolveAssemblyReference.cache
