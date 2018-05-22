@@ -226,7 +226,7 @@
                           </div>
                           <div id="collapseFour" class="panel-collapse collapse">
                             <div class="panel-body">
-                            <p>Family keeps me grounded.  I wouldn’t be here today without them. My wife is my best critic in life. She will always be critical with whatever I do.  I truly believe my family and 
+                            <p>Family keeps me grounded.  I wouldn’t be here today without them. My wife is my best critic in life. I truly believe my family and 
                               having them around is one of the most important thing in my life. I will always be grateful for my family and what they have done for me in my life. They will always be there..</p> 
                             </div>
                           </div>
@@ -431,6 +431,7 @@
             <div class="heading">
               <h2 class="wow fadeInLeftBig">Contact Me</h2>
               <p>I am always looking to get involved with new projects. I would love to hear from you.</p>
+              <a href="mailto:mquon@outlook.com?Subject=Online Profile Contact" target="_top"><h4>Email: Michael Quon</h4></a>
             </div>
           </div>
         </div>       
@@ -445,7 +446,7 @@
                 <div id="form-messages"></div>
                 @if (ViewBag.Message == null)
               {
-                <form asp-controller="Home" method="post" asp-action="Index" id="cform">
+                <!-- <form asp-controller="Home" method="post" asp-action="Index" id="cform">
                   <span asp-validation-for="Name" class="form-Error"></span>
                   <input asp-for="Name" class="form-control" type="text" placeholder="Your Name">
                   <span asp-validation-for="Email" class="form-Error"></span>
@@ -455,7 +456,7 @@
                   <span asp-validation-for="Message" class="form-Error"></span>
                   <textarea asp-for="Message" class="form-control" cols="30" rows="10" placeholder="Your Message"></textarea>
                    <input class="submit_btn" type="submit" value="Send">  
-                </form>
+                </form> -->
               }
                @if (ViewBag.Message != null)
             {
