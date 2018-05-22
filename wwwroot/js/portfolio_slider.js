@@ -15,8 +15,8 @@ $("#elastic_grid_demo").elastic_grid({
 			'large' : ['img/portfolio/large/port2.jpg', 'img/portfolio/large/port1.jpg', 'img/portfolio/large/port3.jpg', 'img/portfolio/large/port4.jpg'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			{ 'title':'Demo', 'url' : 'http://michaelquon.com' },
+			{ 'title':'Download', 'url':'https://github.com/michaelquon/quonPortfolio.git'}
 			],
 			'tags'  : ['Design','C#','All']
 			},
