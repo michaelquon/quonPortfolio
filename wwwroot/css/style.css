@@ -789,21 +789,21 @@ fieldset[disabled] .form-control {
 textarea .form-control {
   height: auto;
 }
-#map_canvas{
+/* #map_canvas{
 	width: 100%;
 	
 	display: inline-block;
 	height: 404px;
-}
+} */
 /*only firefox browser*/
-@-moz-document url-prefix() { 
+/* @-moz-document url-prefix() { 
 	 #map_canvas{
 		width: 100%;
 		
 		display: inline-block;
 		height: 422px;
 	}
-}
+} */
 .contact_feature{
 	
 	display: inline-block;
