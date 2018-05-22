@@ -386,6 +386,17 @@ img{
 	width: 100%;
 	min-height: 200px;
 }
+.resume-btn{
+	padding: 10px 15px;
+	border: 2px solid #2da2c8;
+	color: #2da2c8;
+	font-size: 15px;
+	display: inline-block;
+	text-transform: uppercase;
+}
+.resume-btn_btn:hover,.resume-btn:focus{
+	text-decoration: none;
+}
 .heading{
 	display: inline-block;
 	width: 100%;
