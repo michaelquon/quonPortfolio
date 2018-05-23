@@ -218,6 +218,7 @@ jQuery(function($){
 		$('#map_canvas').gmap('option', 'zoom', 13);
       $('#map_canvas').gmap().bind('init', function(ev, map) {
 				$('#map_canvas').gmap('addMarker', {'position': '47.5416081,-122.3825978', 'bounds': true});
+
       });
 
 
